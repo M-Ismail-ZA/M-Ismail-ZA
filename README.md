@@ -11,9 +11,9 @@
 
 ## Overview
 
-I am a theoretical mathematician working at the intersection of formal verification, decision theory under uncertainty, and cross-domain structural translation. My work is organized around a single core question: **What must a decision-maker get right, structurally, to avoid failure under uncertainty?** This is explored, expanded, and answered by my Lean 4/Mathlib formalization — **Ismail's Primitives** — that proves six structural properties necessary, mutually independent, and sequentially dependent for adaptive decision-making in a precisely defined environment class (Class C). That formalization is then instantiated across four domains: economics, developmental psychology, clinical psychology, and a clinical protocol (SPEA). A separate repository, **Ismail's Glossary**, provides a complete navigation index for every module in Mathlib4.
+I am a theoretical mathematician working at the intersection of formal verification, decision theory under uncertainty, and cross-domain structural translation. My work is organized around a single core question: **What must a decision-maker get right, structurally, to avoid failure under uncertainty?** This is explored, expanded, and answered by my Lean 4/Mathlib formalization — **Ismail's Primitives** — that proves six structural properties necessary, mutually independent, and sequentially dependent for adaptive decision-making in a precisely defined environment class (Class C). That formalization is then instantiated across four domains: economics, developmental psychology, clinical psychology, and a clinical protocol (SPEA). A separate repository, **Ismail's Glossary**, provides a complete navigation index for every module in Mathlib4. A third repository, **Ismail's Protocols**, packages independent rule-based evaluation protocols — for source/claim credibility and AI-writing review — as portable AI skills, each with its own citation trail rather than a formal proof.
 
-All mathematical results are machine-checked in Lean 4 against Mathlib. The formalization contains **zero `sorry`**, **zero custom `axiom`**, and **zero `opaque`** declarations. Every theorem cited in the domain papers traces to a named Lean identifier with a verifiable line range.
+All mathematical results are machine-checked in Lean 4 against Mathlib. The formalization contains **zero `sorry`**, **zero custom `axiom`**, and **zero `opaque`** declarations. Every theorem cited in the domain papers traces to a named Lean identifier with a verifiable line range. 
 
 ---
 
@@ -36,6 +36,15 @@ A complete navigation index for every one of Mathlib4's 9,150 modules — plain-
 - **Reference snapshot**: Lean 4.29.1, Mathlib4 commit `1ad783f9bf` (2026-05-09)
 - **Status**: 9,107 Complete · 43 Benchmark Theorem · 0 Pending · 0 Needs Review
 - **Website**: [m-ismail-za.github.io/IsmailsGlossary](https://m-ismail-za.github.io/IsmailsGlossary/)
+
+### [IsmailsProtocols](https://github.com/M-Ismail-ZA/IsmailsProtocols)
+Rule-based evaluation protocols packaged as portable Claude Skills, with porting guides for ChatGPT and Gemini: an eight-rule credibility checker for assessing whether a claim is well-supported, and a 21-rule AI-writing review adapted from Wikipedia's *Signs of AI Writing* essay.
+
+- **Protocols**: 2 (`ismail-credibility-checker`, `ismail-ai-review`)
+- **Rules**: 8 (credibility checker — 2 depth tiers, 4 severities) + 21 (AI review — 5 parts)
+- **Format**: Claude Skill bundles (`SKILL.md` + `references/`), plus a platform-agnostic porting guide
+- **Evidence**: every rule traces to a cited source (`references/evidence-audit.md` for the credibility checker; Wikipedia's AI-writing essay for the review)
+- **License**: split — rule content CC BY 4.0, tooling/prose MIT
 
 ---
 
@@ -97,6 +106,7 @@ The formalization defines six functional properties of decision rules, referred 
 | **Domain knowledge: Clinical psychology** | Reading-level fluency | Broad citation across major psychotherapy traditions, outcome research, and emotion theory; SPEA protocol with per-step therapist scripts, falsification programme, and six study designs |
 | **Software engineering** | Working | Two public repositories with clear module separation, CI, pinned toolchains, reproducible builds, and documentation |
 | **Data engineering** | Working | Multi-format glossary export (JSON, RAG-ready flat export, Claude Skill bundle, spreadsheet, HTML site) with versioning discipline tracking Lean toolchain, Mathlib snapshot, and glossary release separately |
+| **Rule-based protocol design (applied epistemology)** | Distinctive | Two independently built evaluation protocols — an 8-rule credibility hierarchy and a 21-rule AI-writing catalog — dependency-ordered rather than drafting-ordered, cited per rule, and ported across three AI platforms via a documented translation layer |
 
 ---
 
@@ -176,6 +186,16 @@ If citing the Glossary:
 }
 ```
 
+If citing the Protocols repository:
+
+@misc{ismail2026protocols,
+  author    = {Ismail, Muhammed},
+  title     = {Ismail's Protocols: Rule-Based Evaluation Protocols for Claude Skills and AI Platforms},
+  year      = {2026},
+  publisher = {GitHub},
+  url       = {https://github.com/M-Ismail-ZA/IsmailsProtocols}
+}
+
 ---
 
 ## Contact
@@ -190,4 +210,4 @@ If citing the Glossary:
 ## License
 
 - **Lean formalization** (IsmailsPrimitives): MIT License
-- **Papers and Glossary data**: CC BY 4.0 — free to use, cite, and build on; attribution is the only requirement.
+- **Papers, Glossary and Protocols data**: CC BY 4.0 — free to use, cite, and build on; attribution is the only requirement.
