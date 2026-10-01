@@ -54,7 +54,7 @@ All papers are published on Zenodo under CC BY 4.0. The foundational mathematics
 
 | Title | Version | DOI |
 |---|---|---|
-| **Ismail's Primitives: A Unified Functional Theory of Necessity, Independence, and Sequential Dependence in Adaptive Decision Systems** | V6.1 (2026) | [10.5281/zenodo.21177368](https://doi.org/10.5281/zenodo.21177368) |
+| **Ismail's Primitives: A Unified Functional Theory of Necessity, Independence, and Sequential Dependence in Adaptive Decision Systems** | V6.2 (2026) | [10.5281/zenodo.23080967](https://doi.org/10.5281/zenodo.23080967) |
 | **Ismail's Primitives: Lean-verified Economic Adaptation Theory** | V2.0 (2026) | [10.5281/zenodo.21289756](https://doi.org/10.5281/zenodo.21289756) |
 | **Ismail's Primitives and Human Development: A Functional Isomorphism Between a Lean-Verified Computational Theory and Developmental Psychology** | V3.0 (2026) | [10.5281/zenodo.21257553](https://doi.org/10.5281/zenodo.21257553) |
 | **Ismail's Primitives: An Emotional Adaptation Theory for Therapy Discovered through Functional Isomorphism** | V2.0 (2026) | [10.5281/zenodo.21289914](https://doi.org/10.5281/zenodo.21289914) |
@@ -166,9 +166,9 @@ If citing the foundational mathematics:
                Independence, and Sequential Dependence in Adaptive Decision Systems},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {V6.1},
-  doi       = {10.5281/zenodo.21177368},
-  url       = {https://doi.org/10.5281/zenodo.21177368}
+  version   = {V6.2},
+  doi       = {10.5281/zenodo.23080967},
+  url       = {https://doi.org/10.5281/zenodo.23080967}
 }
 ```
 
