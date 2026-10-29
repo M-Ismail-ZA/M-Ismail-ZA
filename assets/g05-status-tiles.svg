@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="226" viewBox="0 0 880 226" role="img" aria-labelledby="g05-status-tiles-t g05-status-tiles-d">
+<title id="g05-status-tiles-t">Status</title>
+<desc id="g05-status-tiles-d">Status of the Lean formalization: 12,667 lines of Lean, zero sorry, zero axiom, zero opaque, zero linter suppressions. Toolchain leanprover/lean4:v4.30.0 against Mathlib v4.30.0, as of 2026-10-29.</desc>
+<defs>
+<filter id="g05-status-tiles-sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-color="#141414" flood-opacity="0.05"/></filter>
+<clipPath id="g05-status-tiles-cc"><rect x="16" y="12" width="848" height="202" rx="10"/></clipPath>
+<marker id="g05-status-tiles-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,1 L10,5 L0,9 z" fill="#5B5850"/></marker>
+</defs>
+<rect x="16" y="12" width="848" height="202" rx="10" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1" filter="url(#g05-status-tiles-sh)"/>
+<g clip-path="url(#g05-status-tiles-cc)"><rect x="16" y="12" width="848" height="3" fill="#0F766E"/></g>
+<text x="44" y="46" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">STATUS</text>
+<rect x="44" y="70" width="146" height="86" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="117" y="114" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="32" fill="#0C5B55" font-weight="700" text-anchor="middle">12,667</text>
+<text x="117" y="136" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" text-anchor="middle" letter-spacing="0.2">LINES OF LEAN</text>
+<rect x="205.5" y="70" width="146" height="86" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="278.5" y="114" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="32" fill="#0C5B55" font-weight="700" text-anchor="middle">0</text>
+<text x="278.5" y="136" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" text-anchor="middle" letter-spacing="0.2">SORRY</text>
+<rect x="367" y="70" width="146" height="86" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="440" y="114" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="32" fill="#0C5B55" font-weight="700" text-anchor="middle">0</text>
+<text x="440" y="136" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" text-anchor="middle" letter-spacing="0.2">AXIOM</text>
+<rect x="528.5" y="70" width="146" height="86" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="601.5" y="114" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="32" fill="#0C5B55" font-weight="700" text-anchor="middle">0</text>
+<text x="601.5" y="136" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" text-anchor="middle" letter-spacing="0.2">OPAQUE</text>
+<rect x="690" y="70" width="146" height="86" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="763" y="114" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="32" fill="#0C5B55" font-weight="700" text-anchor="middle">0</text>
+<text x="763" y="136" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" text-anchor="middle" letter-spacing="0.2">LINTER SUPPRESSIONS</text>
+<text x="44" y="186" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic">Toolchain leanprover/lean4:v4.30.0 · Mathlib v4.30.0 · as of 2026-10-29</text>
+</svg>

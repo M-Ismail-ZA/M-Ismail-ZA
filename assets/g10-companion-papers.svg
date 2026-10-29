@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="432" viewBox="0 0 880 432" role="img" aria-labelledby="g10-companion-papers-t g10-companion-papers-d">
+<title id="g10-companion-papers-t">Companion papers</title>
+<desc id="g10-companion-papers-d">The main paper, Ismail's Primitives V6.2, sits at the centre. Four companion papers apply the same six primitives under a fixed relabelling: Economic Adaptation Theory, Human Development, Emotional Adaptation Theory, and the SPEA Protocol, which operationalises the emotional-adaptation paper.</desc>
+<defs>
+<filter id="g10-companion-papers-sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-color="#141414" flood-opacity="0.05"/></filter>
+<clipPath id="g10-companion-papers-cc"><rect x="16" y="12" width="848" height="408" rx="10"/></clipPath>
+<marker id="g10-companion-papers-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,1 L10,5 L0,9 z" fill="#5B5850"/></marker>
+</defs>
+<rect x="16" y="12" width="848" height="408" rx="10" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1" filter="url(#g10-companion-papers-sh)"/>
+<g clip-path="url(#g10-companion-papers-cc)"><rect x="16" y="12" width="848" height="3" fill="#0F766E"/></g>
+<text x="44" y="46" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">COMPANION PAPERS</text>
+<rect x="330" y="151" width="220" height="130" rx="6" fill="#ECF4F3" stroke="#0F766E" stroke-width="2.5"/>
+<text x="342" y="176" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Ismail's Primitives</text>
+<text x="342" y="196" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Main paper V6.2</text>
+<text x="342" y="214" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">DOI 10.5281/zenodo.23080967</text>
+<text x="342" y="232" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Machine-checked in Lean 4</text>
+<rect x="44" y="70" width="262" height="130" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="56" y="95" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Economic Adaptation Theory</text>
+<text x="56" y="115" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">V2.0 · DOI 10.5281/zenodo.21289756</text>
+<text x="56" y="133" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Economy · coordination mechanism ·</text>
+<text x="56" y="151" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">welfare</text>
+<text x="56" y="169" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#0C5B55" font-weight="700">Parts I–II by citation; Part III hand-checked</text>
+<rect x="44" y="232" width="262" height="130" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="56" y="257" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Human Development</text>
+<text x="56" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">V3.0 · DOI 10.5281/zenodo.21257553</text>
+<text x="56" y="295" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Erikson · Maslow · Bowlby</text>
+<text x="56" y="313" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#0C5B55" font-weight="700">Argument by consilience</text>
+<rect x="574" y="70" width="262" height="130" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="586" y="95" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Emotional Adaptation Theory</text>
+<text x="586" y="115" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">V2.0 · DOI 10.5281/zenodo.21289914</text>
+<text x="586" y="133" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Six therapeutic functions; the Dodo Bird</text>
+<text x="586" y="151" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">verdict</text>
+<text x="586" y="169" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#0C5B55" font-weight="700">Argument with falsification criteria</text>
+<rect x="574" y="232" width="262" height="130" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="586" y="257" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">The SPEA Protocol</text>
+<text x="586" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">V1.0 · DOI 10.5281/zenodo.21311895</text>
+<text x="586" y="295" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Six-step clinical sequence</text>
+<text x="586" y="313" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#0C5B55" font-weight="700">Protocol with falsifiable claims</text>
+<path d="M328,176 L308,176" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g10-companion-papers-ar)"/>
+<path d="M328,256 L308,256" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g10-companion-papers-ar)"/>
+<path d="M552,176 L572,176" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g10-companion-papers-ar)"/>
+<path d="M552,256 L572,256" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g10-companion-papers-ar)"/>
+<path d="M705,202 L705,230" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g10-companion-papers-ar)"/>
+<text x="713" y="220" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" paint-order="stroke">operationalised as</text>
+<text x="44" y="392" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic">The same six primitives, under a fixed relabelling, applied to other domains.</text>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="404" viewBox="0 0 880 404" role="img" aria-labelledby="g11-repositories-t g11-repositories-d">
+<title id="g11-repositories-t">How the repositories relate</title>
+<desc id="g11-repositories-d">IsmailsPrimitives is the research core. Ismail's Glossary is an independent side project, a byproduct of learning Mathlib while writing the proof. Ismail's Protocols is a second independent side project.</desc>
+<defs>
+<filter id="g11-repositories-sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-color="#141414" flood-opacity="0.05"/></filter>
+<clipPath id="g11-repositories-cc"><rect x="16" y="12" width="848" height="380" rx="10"/></clipPath>
+<marker id="g11-repositories-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,1 L10,5 L0,9 z" fill="#5B5850"/></marker>
+</defs>
+<rect x="16" y="12" width="848" height="380" rx="10" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1" filter="url(#g11-repositories-sh)"/>
+<g clip-path="url(#g11-repositories-cc)"><rect x="16" y="12" width="848" height="3" fill="#0F766E"/></g>
+<text x="44" y="46" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">HOW THE REPOSITORIES RELATE</text>
+<text x="44" y="82" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">RESEARCH CORE</text>
+<text x="464" y="82" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" letter-spacing="0.9">SIDE PROJECTS (INDEPENDENT)</text>
+<rect x="44" y="96" width="280" height="268" rx="6" fill="#ECF4F3" stroke="#0F766E" stroke-width="2.5"/>
+<text x="56" y="121" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">IsmailsPrimitives</text>
+<text x="56" y="141" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Lean 4 / Mathlib formalization of six primitives</text>
+<text x="56" y="159" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">12,667 lines · 0 sorry · 0 axiom · 0 opaque</text>
+<text x="56" y="177" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Main paper V6.2 and four companion papers</text>
+<text x="56" y="195" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#5B5850">Account: M-Ismail-ZA</text>
+<rect x="464" y="96" width="372" height="150" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="476" y="121" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Ismail's Glossary</text>
+<text x="476" y="141" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Plain-English navigation index for every one of Mathlib4's 9,150</text>
+<text x="476" y="159" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">modules.</text>
+<text x="476" y="177" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Five deliverables: JSON, RAG export, Claude Skill, spreadsheet,</text>
+<text x="476" y="195" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">website.</text>
+<text x="476" y="213" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#5B5850">Paper V1.0 · DOI 10.5281/zenodo.21192789</text>
+<rect x="464" y="282" width="372" height="82" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="476" y="307" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Ismail's Protocols</text>
+<text x="476" y="327" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Rule-based evaluation protocols as portable AI skills.</text>
+<text x="476" y="345" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Credibility Checker (8 rules) · AI Review (21 rules).</text>
+<path d="M326,170 L462,170" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g11-repositories-ar)"/>
+<text x="394" y="146" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" text-anchor="middle">byproduct of</text>
+<text x="394" y="162" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" text-anchor="middle">learning Mathlib</text>
+</svg>

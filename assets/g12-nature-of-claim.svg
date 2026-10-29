@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="364" viewBox="0 0 880 364" role="img" aria-labelledby="g12-nature-of-claim-t g12-nature-of-claim-d">
+<title id="g12-nature-of-claim-t">The nature of the claim</title>
+<desc id="g12-nature-of-claim-d">The claim is that this theorem follows from these axioms. Mathlib's axioms go through Lean's kernel, which checks every step, to the theorem. The proof is a closed logical object whose correctness is internal consistency; empirical validation is not required. A reader can still examine what the definitions say.</desc>
+<defs>
+<filter id="g12-nature-of-claim-sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-color="#141414" flood-opacity="0.05"/></filter>
+<clipPath id="g12-nature-of-claim-cc"><rect x="16" y="12" width="848" height="340" rx="10"/></clipPath>
+<marker id="g12-nature-of-claim-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,1 L10,5 L0,9 z" fill="#5B5850"/></marker>
+</defs>
+<rect x="16" y="12" width="848" height="340" rx="10" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1" filter="url(#g12-nature-of-claim-sh)"/>
+<g clip-path="url(#g12-nature-of-claim-cc)"><rect x="16" y="12" width="848" height="3" fill="#0F766E"/></g>
+<text x="44" y="46" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">THE NATURE OF THE CLAIM</text>
+<text x="440" y="92" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="26" fill="#0F766E" font-weight="700" text-anchor="middle">This theorem follows from these axioms.</text>
+<rect x="44" y="124" width="232" height="84" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="56" y="149" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Mathlib's axioms</text>
+<text x="56" y="169" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">The only axioms the proofs rest on.</text>
+<path d="M278,166 L322,166" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g12-nature-of-claim-ar)"/>
+<rect x="324" y="124" width="232" height="84" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="336" y="149" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Lean's kernel</text>
+<text x="336" y="169" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Checks every step. No person's</text>
+<text x="336" y="187" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">judgement enters the check.</text>
+<path d="M558,166 L602,166" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g12-nature-of-claim-ar)"/>
+<rect x="604" y="124" width="232" height="84" rx="6" fill="#ECF4F3" stroke="#0F766E" stroke-width="2"/>
+<text x="616" y="149" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">The theorem</text>
+<text x="616" y="169" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Proved from the axioms alone: no</text>
+<text x="616" y="187" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">sorry, no custom axiom, no opaque.</text>
+<rect x="44" y="232" width="386" height="92" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="56" y="257" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">A closed logical object</text>
+<text x="56" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Correctness is a matter of internal consistency, which the machine</text>
+<text x="56" y="295" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">checks definitively. Empirical validation is not required.</text>
+<rect x="450" y="232" width="386" height="92" rx="6" fill="#F7F6F1" stroke="#E4E1D8" stroke-width="1"/>
+<text x="462" y="257" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">What a reader can still examine</text>
+<text x="462" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">What the definitions say. The statements in Phase0.lean are short and</text>
+<text x="462" y="295" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">are quoted in this README.</text>
+</svg>

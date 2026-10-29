@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="658" viewBox="0 0 880 658" role="img" aria-labelledby="g01b-ecosystem-map-profile-t g01b-ecosystem-map-profile-d">
+<title id="g01b-ecosystem-map-profile-t">The ecosystem</title>
+<desc id="g01b-ecosystem-map-profile-d">Three separate GitHub accounts. The research account holds Lean 4 and Mathlib's axioms, the IsmailsPrimitives repository, the companion papers and two side projects (Glossary and Protocols). The field account holds the Field of Decisional Integrity, which rests on the proof. The commercial account holds Literacity, which applies the Field's Standard.</desc>
+<defs>
+<filter id="g01b-ecosystem-map-profile-sh" x="-5%" y="-10%" width="110%" height="130%"><feDropShadow dx="0" dy="4" stdDeviation="9" flood-color="#141414" flood-opacity="0.05"/></filter>
+<clipPath id="g01b-ecosystem-map-profile-cc"><rect x="16" y="12" width="848" height="634" rx="10"/></clipPath>
+<marker id="g01b-ecosystem-map-profile-ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,1 L10,5 L0,9 z" fill="#5B5850"/></marker>
+</defs>
+<rect x="16" y="12" width="848" height="634" rx="10" fill="#FFFFFF" stroke="#E4E1D8" stroke-width="1" filter="url(#g01b-ecosystem-map-profile-sh)"/>
+<g clip-path="url(#g01b-ecosystem-map-profile-cc)"><rect x="16" y="12" width="848" height="3" fill="#0F766E"/></g>
+<text x="44" y="46" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">THE ECOSYSTEM</text>
+<text x="44" y="82" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">RESEARCH · ACCOUNT M-Ismail-ZA</text>
+<rect x="44" y="96" width="200" height="84" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="56" y="121" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Lean 4 + Mathlib</text>
+<text x="56" y="141" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Mathlib's axioms only</text>
+<rect x="284" y="96" width="240" height="84" rx="6" fill="#ECF4F3" stroke="#0F766E" stroke-width="2.5"/>
+<text x="296" y="121" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">IsmailsPrimitives</text>
+<text x="296" y="141" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Lean 4 proof · 12,667 lines</text>
+<text x="296" y="159" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Paper V6.2 · project website</text>
+<rect x="564" y="96" width="272" height="84" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="576" y="121" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Companion papers</text>
+<text x="576" y="141" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Economics · Human development</text>
+<text x="576" y="159" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Emotional adaptation · SPEA</text>
+<path d="M244,138 L282,138" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<path d="M524,138 L562,138" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<text x="44" y="204" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#5B5850" font-weight="700" letter-spacing="0.9">SIDE PROJECTS</text>
+<rect x="44" y="214" width="200" height="80" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="56" y="239" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Ismail's Glossary</text>
+<text x="56" y="259" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Navigation index for Mathlib4</text>
+<text x="56" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">9,150 modules</text>
+<rect x="564" y="214" width="272" height="80" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="576" y="239" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Ismail's Protocols</text>
+<text x="576" y="259" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Credibility Checker · AI Review</text>
+<text x="576" y="277" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Portable rule-based skills</text>
+<path d="M144,212 L144,182" fill="none" stroke="#5B5850" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<text x="152" y="202" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" paint-order="stroke">indexes</text>
+<line x1="44" y1="316" x2="836" y2="316" stroke="#CFC9B8" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="44" y="340" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">FIELD · ACCOUNT decisional-integrity</text>
+<rect x="284" y="354" width="240" height="84" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="296" y="379" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">The Field</text>
+<text x="296" y="399" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Decisional Integrity</text>
+<text x="296" y="417" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Dossier · field pages · Standard</text>
+<path d="M404,182 L404,352" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<text x="412" y="262" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" paint-order="stroke">the Field rests on the proof</text>
+<path d="M700,296 L700,396 L526,396" fill="none" stroke="#5B5850" stroke-width="1.5" stroke-dasharray="4 4" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<text x="708" y="346" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" paint-order="stroke">checks the Field's writing</text>
+<line x1="44" y1="458" x2="836" y2="458" stroke="#CFC9B8" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="44" y="482" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="11" fill="#0F766E" font-weight="700" letter-spacing="0.9">COMMERCIAL · ACCOUNT Literacity</text>
+<rect x="284" y="496" width="240" height="96" rx="6" fill="none" stroke="#0F766E" stroke-width="2"/>
+<text x="296" y="521" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="16" fill="#0F766E" font-weight="700">Literacity</text>
+<text x="296" y="541" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Decisional assurance</text>
+<text x="296" y="559" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">Applies the Field's Standard as a</text>
+<text x="296" y="577" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="13" fill="#000000">commercial service</text>
+<path d="M404,440 L404,494" fill="none" stroke="#5B5850" stroke-width="1.5" marker-end="url(#g01b-ecosystem-map-profile-ar)"/>
+<text x="412" y="472" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" paint-order="stroke">applies the Standard</text>
+<text x="44" y="618" font-family="'Times New Roman', Tinos, 'Liberation Serif', Times, serif" font-size="12" fill="#5B5850" font-style="italic">Three separate accounts: research, field and commercial.</text>
+</svg>
